@@ -195,7 +195,7 @@ disableHugoGeneratorInject = false
 [[menu.main]]
    identifier = "userManual"
    name       = "User Manual"
-   url        = "user-manual/"
+   url        = "manual/"
 
 [[menu.main]]
    identifier = "about"
