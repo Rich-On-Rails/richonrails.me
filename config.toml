@@ -1,4 +1,4 @@
-#baseURL = "https://richonrails.me"
+baseURL = "https://richonrails.me"
 
 title   = "Rich On Rails"
 languageCode = "en-us"
@@ -191,12 +191,13 @@ disableHugoGeneratorInject = false
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
-# [menu]
-# [[menu.main]]
-#   identifier = "about"
-#   name       = "About"
-#   url        = "about/"
-# [[menu.main]]
-#   identifier = "posts"
-#   name       = "Posts"
-#   url        = "posts/"
+[menu]
+[[menu.main]]
+   identifier = "userManual"
+   name       = "User Manual"
+   url        = "user-manual/"
+
+[[menu.main]]
+   identifier = "about"
+   name       = "About"
+   url        = "about/"
