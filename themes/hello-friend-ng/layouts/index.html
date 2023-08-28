@@ -1,23 +1,43 @@
 {{ define "body" }}
-    <body class="{{ if .Site.Params.backgroundImage }} background-image" style="background-image: url('{{ .Site.Params.backgroundImage }}');" {{ else }}"{{ end }}>
+    <body>
 {{ end }}
 
-{{ define "main" }}
-    <main aria-role="main">
+{{ define "main" }}  
+
+    <div class="status">
+        <h3>Latest Status</h3>
+        <script src="https://status.lol/richonrails.js?time&link&fluent&pretty"></script>
+        
         <div>
-            {{ if .Site.Params.Portrait.Path }}
-               <img src="{{ .Site.Params.Portrait.Path }}" class="circle" alt="{{ .Site.Params.Portrait.Alt }}" style="max-width:{{ .Site.Params.Portrait.MaxWidth }}" />
-            {{ end }}
-
-            <h1>{{ .Site.Title }}</h1>
-
-            {{ partial "subtitle.html" . }}
-
-            {{- with .Site.Params.social }}
-                <div>
-                    {{ partial "social-icons.html" . }}
-                </div>
-            {{- end }}
+            <a class="page-btn" href="https://status.lol/richonrails">See them all</a>
         </div>
-    </main>
+
+    </div>
+
+    <div class="latest-pic">
+        <h3>Latest Picture</h3>
+        <script src="https://some.pics/by/richonrails.js?count=1"></script>
+
+        <div>
+        <a class="page-btn" href="https://richonrails.some.pics/">View More</a>
+        </div>
+    </div>
+
+    <!-- <div class="latest-pic">
+        <h2>Latest Track New</h2>
+        
+        <script src="https://recentfm.rknight.me/now.js?u=richonrails"></script>
+
+        <div>
+        <a class="page-btn" href="https://richonrails.some.pics/">View More</a>
+        </div>
+    </div> -->
+
+    <!-- <script src="https://scripts.hashemian.com/jss/feed.js?print=yes&numlinks=3&summarylen=0&seedate=no&popwin=yes&url=https:%2F%2Frichonrails.blog%2Ffeed%2F"></script> -->
+
 {{ end }}
+
+
+
+
+

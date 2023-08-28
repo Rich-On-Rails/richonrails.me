@@ -1,5 +1,103 @@
 main {
-    background-color: #fff !important;
+    background-color: #4C3957 !important;
     padding: 10px !important;
     border-radius: 5px !important;
+}
+
+.logo__text {
+    font-size: 2rem;
+}
+
+.header{
+    background-color: #4C3957 !important;
+    color: #fff;
+}
+
+.menu a {
+    background-color: #79B473;
+    color: #fff;
+    padding: .5em;
+    border-radius: .5em;
+}
+
+.menu a:hover {
+    background-color: #41658A;
+    color: #fff;
+    padding: .5em;
+    border-radius: .5em;
+}
+
+.menu__inner {
+    background-color: #4C3957 !important;
+    color: #fff;
+}
+
+.content, .footer {
+    background-color: #4C3957 !important;
+    color: #fff;
+}
+
+.statuslol {
+    background-color: #41658A !important;
+}
+
+.statuslol p {
+    color: #fff !important; 
+}
+
+.statuslol a {
+    background-color: #79B473;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: .5em;
+    text-decoration: none;
+}
+
+.status {
+    padding-bottom: 40px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 1em;
+    padding: 1em;
+}
+
+.latest-pic {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 1em;
+    padding: 1em;
+
+}
+
+.latest-pic img {
+    width: 920px;
+    border-radius: .5em;
+}
+
+.latest-track {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 1em;
+    padding: 1em;
+
+}
+
+.page-btn {
+    background-color: #79B473;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: .5em;
+    text-decoration: none;
+}
+
+.page-btn:hover {
+    background-color: #414073;
+    color: #fff;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: .5em;
+    text-decoration: underline;
 }
