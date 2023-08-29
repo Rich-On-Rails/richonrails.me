@@ -53,6 +53,19 @@ main {
     text-decoration: none;
 }
 
+.about {
+    margin-top: 40px;
+    padding-bottom: 40px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 1em;
+    padding: 1em;
+    max-width: 900px;
+    background-color: #41658A;
+    border-radius: .5em;
+}
+
 .status {
     padding-bottom: 40px;
     display: flex;
@@ -61,6 +74,8 @@ main {
     gap: 1em;
     padding: 1em;
 }
+
+
 
 .latest-pic {
     display: flex;
@@ -74,6 +89,10 @@ main {
 .latest-pic img {
     width: 920px;
     border-radius: .5em;
+}
+
+h3 {
+    flex-direction: column;
 }
 
 .latest-track {
@@ -100,4 +119,8 @@ main {
     padding: 10px;
     border-radius: .5em;
     text-decoration: underline;
+}
+
+.css-ekq38o {
+    background-color: #414073 !important;
 }
