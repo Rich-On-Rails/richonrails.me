@@ -4,6 +4,10 @@ main {
     border-radius: 5px !important;
 }
 
+strong {
+    color: #fff;
+}
+
 .logo__text {
     font-size: 2rem;
 }
