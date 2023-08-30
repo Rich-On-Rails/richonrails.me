@@ -1,6 +1,10 @@
 ---
+slug: uses
+Title: What I use
 
 ---
+
+**This is still a work in progress**
 
 This is a list of all the tech I use both on and off the railway. 
 
@@ -41,6 +45,8 @@ This is a list of all the tech I use both on and off the railway.
 * Logitech Z200 PC Speakers, Stereo Sound, 10 Watts Peak Power, 2 x 3.5mm Inputs, Headphone Jack, Adjustable Bass, Volume Controls, PC/TV/Smartphone/Tab
 
 ## Photography
+
+Canon 6D
 
 ## Networking
 

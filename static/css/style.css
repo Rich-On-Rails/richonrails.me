@@ -66,6 +66,10 @@ main {
     border-radius: .5em;
 }
 
+.about strong {
+    color: #fff !important;
+}
+
 .status {
     padding-bottom: 40px;
     display: flex;
