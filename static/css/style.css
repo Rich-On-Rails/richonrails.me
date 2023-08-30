@@ -70,7 +70,48 @@ main {
     color: #fff !important;
 }
 
+.now {
+    background-color: #41658A;
+    min-width: 900px;
+    margin-top: 40px;
+    border-radius: .5em;
+    padding-bottom: 40px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+}
+
+.uses h2 {
+    margin-top: 20px;
+    margin-bottom: 5px;
+    flex-direction: column;
+}
+
+.uses {
+    background-color: #41658A;
+    min-width: 900px;
+    margin-top: 40px;
+    border-radius: .5em;
+    padding-bottom: 40px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+}
+
+.now h2 {
+    margin-top: 20px;
+    margin-bottom: 5px;
+    flex-direction: column;
+}
+
 .status {
+    background-color: #41658A;
+    min-width: 900px;
+    max-width: 900px;
+    margin-top: 40px;
+    border-radius: .5em;
     padding-bottom: 40px;
     display: flex;
     flex-direction: column;
@@ -79,9 +120,18 @@ main {
     padding: 1em;
 }
 
-
+.status h2 {
+    margin-top: 20px;
+    flex-direction: column;
+}
 
 .latest-pic {
+    background-color: #41658A;
+    min-width: 900px;
+    max-width: 900px;
+    margin-top: 40px;
+    border-radius: .5em;
+    padding-bottom: 40px;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
@@ -95,8 +145,9 @@ main {
     border-radius: .5em;
 }
 
-h3 {
-    flex-direction: column;
+.latest-pic h2 {
+    margin-top: 20px;
+    flex-direction: column;  
 }
 
 .latest-track {
@@ -106,6 +157,30 @@ h3 {
     gap: 1em;
     padding: 1em;
 
+}
+
+.tiktok {
+    background-color: #41658A;
+    min-width: 900px;
+    max-width: 900px;
+    margin-top: 40px;
+    border-radius: .5em;
+    padding-bottom: 40px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 1em;
+    padding: 1em;
+
+}
+
+.tiktok h2 {
+    margin-top: 20px;
+    flex-direction: column;  
+}
+
+.css-ekq38o {
+    background-color: #41658A !important;
 }
 
 .page-btn {
@@ -125,6 +200,6 @@ h3 {
     text-decoration: underline;
 }
 
-.css-ekq38o {
-    background-color: #414073 !important;
+blockquote {
+    border-left: none !important;
 }
