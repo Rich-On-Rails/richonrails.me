@@ -51,4 +51,28 @@ English
 
 - I get upset easily when my day is changed or my routine is amended without given prior warning. 
 
+### Find out more
+
+If you would like to learn more about mental health or some of the things that impact me, there are some short educational videos below which might help.
+
+#### What is ADHD
+
+https://www.youtube.com/watch?v=TM7jwfRZlj0
+
+#### 5 Ways to Support your ADHD Friend
+
+https://www.youtube.com/watch?v=bvm0yxVFrrI
+
+#### ADHD & Sensory Overload
+
+https://www.youtube.com/watch?v=IEFKC7zpzww
+
+#### ADHD and Anger
+
+https://www.youtube.com/watch?v=c6YIfe3MPK4
+
+#### ADHD and Burnout
+
+https://www.youtube.com/watch?v=2FMP5aWecNs
+
 Idea taken from [Andy Carolan](https://www.andycarolan.com/myusermanual)
