@@ -60,5 +60,9 @@ title: Kit List
 25. [PVC gloves](https://www.toolstation.com/pvc-knit-wrist-gloves/p44494) - use for coupling and uncoupling, oiling up, lighting up and engine cleaning.   
     
 26. Mechanics gloves thin black- have used them for firing good feel and take heat reasonably.
+    
+27. [Barrier Cream](https://www.ebay.co.uk/itm/225219854398?var=524157679613)
+    
+28. [ZOrange](https://www.ebay.co.uk/itm/284867646218)
 
 💡 Avoid wearing a jumper underneath any clothing even in winter as you will overheat 🥵
