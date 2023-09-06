@@ -39,18 +39,26 @@ title: Kit List
 
 💡 If legs are too long on the bib and brace tuck them into elastics which also save them get ragged and catching on anything.
     
-1.  [Boiler Suit](https://www.armyandworkwear.com/click-cotton-drill-boilersuit-in-navy-blue/)
+16.  [Boiler Suit](https://www.armyandworkwear.com/click-cotton-drill-boilersuit-in-navy-blue/)
     
-2.  [Messenger Bag](https://www.ebay.co.uk/itm/175479388820?var=474794523415)
+17.  [Messenger Bag](https://www.ebay.co.uk/itm/175479388820?var=474794523415)
     
-3.  [Selection of Rags](https://www.ebay.co.uk/itm/144243799909?var=443547967335)
+18.  [Selection of Rags](https://www.ebay.co.uk/itm/144243799909?var=443547967335)
     
-4.  Soap in a old tobacco tin
+19.  Soap in a old tobacco tin
     
-5.  Small towel for drying your hands
+20.  Small towel for drying your hands
     
-6.  [Mens External Steel Toe Cap Safety Boots](https://www.ebay.co.uk/itm/370803360514?mkcid=16&mkevt=1&mkrid=711-127632-2357-0&ssspo=IRWfoMJfSTq&sssrc=2349624&ssuid=qquvTs-2QpG&var=640082255527&widget_ver=artemis&media=FB_MSG)
+21.  [Mens External Steel Toe Cap Safety Boots](https://www.ebay.co.uk/itm/370803360514?mkcid=16&mkevt=1&mkrid=711-127632-2357-0&ssspo=IRWfoMJfSTq&sssrc=2349624&ssuid=qquvTs-2QpG&var=640082255527&widget_ver=artemis&media=FB_MSG)
     
-7.  100% Cotton T-Shirt, No Red, Yellow or Green for obvious reasons
+22.  100% Cotton T-Shirt, No Red, Yellow or Green for obvious reasons
+    
+23. A stout leather belt can be worn with the bib and brace to stop it getting too baggy when bending.
+    
+24. Rigger gloves can be worn for firing but they don’t have a good grip on the shovel. Useful for handling fire irons.
+    
+25. [PVC gloves](https://www.toolstation.com/pvc-knit-wrist-gloves/p44494) - use for coupling and uncoupling, oiling up, lighting up and engine cleaning.   
+    
+26. Mechanics gloves thin black- have used them for firing good feel and take heat reasonably.
 
 💡 Avoid wearing a jumper underneath any clothing even in winter as you will overheat 🥵
